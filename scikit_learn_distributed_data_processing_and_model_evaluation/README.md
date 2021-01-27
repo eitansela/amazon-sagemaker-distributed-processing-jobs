@@ -1,4 +1,4 @@
-### Scikit-Learn Distributed Data Processing and Model Evaluation
+### Scikit-Learn Distributed Data Processing
 
 
 This notebook shows how you can run a distributed processing job to run a Scikit-Learn script to clean, pre-process, perform feature engineering, and split the input data into train and test sets.
